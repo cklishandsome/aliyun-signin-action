@@ -12,6 +12,6 @@ jobs:
     steps:
       - uses: ImYrS/aliyun-auto-signin@main
         with:
-          REFRESH_TOKENS: 43273e1dec664b30a4758ad232653612
-          GP_TOKEN: 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
+          REFRESH_TOKENS: ${{ 43273e1dec664b30a4758ad232653612 }}
+          GP_TOKEN: ${{ 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 }}
 
