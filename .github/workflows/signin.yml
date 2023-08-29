@@ -12,6 +12,6 @@ jobs:
     steps:
       - uses: ImYrS/aliyun-auto-signin@main
         with:
-          REFRESH_TOKENS: 43273e1dec664b30a4758ad232653612
+          REFRESH_TOKENS: 433da6e75a854f0e8c198c84eeaa72a3
 
 
